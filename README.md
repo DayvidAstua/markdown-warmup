@@ -38,5 +38,5 @@ Rating exercise :
 - [ ] Good
 - [x] Bad
 - It was difficult!
-
+8. ![alt text](/home/user/Pictures/Screenshot from 2017-11-09 16-45-22.png)
 # Great work everyone!
