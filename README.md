@@ -32,7 +32,8 @@ Markdown exercise Hamilton Promo 3 Becode
 
 
 7. This website makes money because it is so bad , 1 dollar a day: link to statistics : http://pennyjuice.com.hypestat.com/
-    /home/user/Pictures/Screenshot from 2017-11-09 16-45-22.png
+
+![alt text](/home/user/Pictures/Screenshot from 2017-11-09 16-45-22.png)
 Rating exercise :
 - [ ] Good
 - [x] Bad
